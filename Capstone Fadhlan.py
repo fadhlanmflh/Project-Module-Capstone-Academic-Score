@@ -149,7 +149,7 @@ while PilihanMenu:
                         nama_Siswa = input ("Nama Siswa: ")
                         nisn_Siswa = input ("NISN : ") 
                         nilai_Siswa = input ("Nilai : ")  
-                        print("nama_Siswa,nilai_Siswa,nilai_Siswa") 
+                        print("Nama,NISN,Nilai") 
                         val = (nama_Siswa,nisn_Siswa,nilai_Siswa)
                         print(val)
                         update_data = input("Apakah anda yakin untuk memperbarui data? (ya/tidak)")
